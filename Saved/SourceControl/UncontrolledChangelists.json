@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Assets/Characters/Aura/SK_Aura.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/Characters/Aura/BP_AuraCharacter.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/Characters/Goblin_Spear/BP_Goblin_Spear.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Assets/Enemies/Goblin/SK_Goblin.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Maps/StartupMap.umap",
 				"E:/Courses/Druid Mechanics Courses/GAS Official/Startup Project/Aura/Content/Maps/StartupMap.umap",
 				"E:/Courses/Druid Mechanics Courses/GAS Official/Startup Project/Aura/Content/Assets/Dungeon/Tilesets/SM_Corner_norail.uasset",
 				"E:/Courses/Druid Mechanics Courses/GAS Official/Startup Project/Aura/Content/Assets/Dungeon/Tilesets/Materials/TilesetEdge/M_Edge_base.uasset",
