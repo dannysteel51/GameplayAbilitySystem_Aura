@@ -47,6 +47,7 @@ public:
 	void SetWidgetControllerParams(const FWidgetControllerParams& WCParams);
 
 	virtual void BroadCastInitialValues();
+	virtual void BindCallbacksToDependencies();
 
 protected:
 	

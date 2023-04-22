@@ -22,8 +22,8 @@ public:
 	AAuraCharacter();
 	
 	virtual void PossessedBy(AController* NewController) override; //Setting controller and Init Actor Ability Info
-	virtual void OnRep_PlayerState() override;
+	virtual void OnRep_PlayerState() override; //Setting player state and Init Actor Ability Info
 
 private:
-	void InitAbilityActorInfo();
+	virtual void InitAbilityActorInfo() override;
 };
