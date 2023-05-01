@@ -5,22 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Maps/StartupMap.umap",
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/ProgressBar/WBP_GlobeProgressBarBase.uasset",
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset",
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/Overlay/SubWidget/WBP_EffectMessage.uasset",
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/ProgressBar/WBP_HealthGlobe.uasset",
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/ProgressBar/WBP_ManaGlobe.uasset",
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AbilitySystem/Data/DT_InitialPrimaryValues.uasset",
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/Player/BP_AuraPlayerState.uasset",
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/Characters/Aura/BP_AuraCharacter.uasset",
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/PrimaryAttributes/BP_AuraPrimaryAttributes.uasset",
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/Actor/TestActor/BP_TestActor.uasset",
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/Actor/TestActor/GE_TestAttributeBase.uasset",
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAtrributes/BP_AuraPrimaryAttributes.uasset",
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAtrributes/GE_AuraPrimaryAttributes.uasset",
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAtrributes/GE_AuraSecondaryAttributes.uasset",
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/ProgressBar/BP_GlobeProgressBarBase.uasset"
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAtrributes/GE_AuraSecondaryAttributes.uasset"
 			]
 		}
 	]
