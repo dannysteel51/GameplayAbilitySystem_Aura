@@ -3,10 +3,15 @@
 
 #include "AbilitySystem/AuraAbilitySystemComponent.h"
 
+#include "AuraGameplayTags.h"
+
 void UAuraAbilitySystemComponent::AbilityActorInfoSet()
 {
 	// Bind to the OnGameplayEffectApplied delegate.  This is called whenever a GameplayEffect is applied to this actor.
-	OnGameplayEffectAppliedDelegateToSelf.AddUObject(this, &UAuraAbilitySystemComponent::EffectApplied); 
+	OnGameplayEffectAppliedDelegateToSelf.AddUObject(this, &UAuraAbilitySystemComponent::EffectApplied);
+
+	const FAuraGameplayTags& GameplayTags = FAuraGameplayTags::Get();
+	GEngine->AddOnScreenDebugMessage(-1, 5.f, FColor::Red, FString::Printf(TEXT("Tag: %s"), *GameplayTags.Attributes_Secondary_Armor.ToString()));
 }
 
 void UAuraAbilitySystemComponent::EffectApplied(UAbilitySystemComponent* AbilitySystemComponent,

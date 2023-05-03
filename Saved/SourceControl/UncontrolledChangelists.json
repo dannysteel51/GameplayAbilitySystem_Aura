@@ -5,7 +5,30 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAtrributes/GE_AuraSecondaryAttributes.uasset"
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAtrributes/GE_AuraSecondaryAttributes.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/Characters/Aura/BP_AuraCharacter.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAtrributes/GE_AuraVitalAttributes.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/Actor/Potion/BP_Mana.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/Data/DT_MessageWidgetData.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/Overlay/SubWidget/WBP_EffectMessage.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Pickups/T_Potion_Red.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Pickups/T_HealthCrystal.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Pickups/T_ManaCrystal.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Pickups/T_Potion_Blue.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Assets/UI/Globes/MI_FlowingUIBG.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/AttributeMenu/WBP_FramedValue.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/AttributeMenu/WBP_TextValueRow.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/AttributeMenu/WBP_TextValueButtonRow.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/AttributeMenu/WBP_AttributeMenu.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Maps/StartupMap.umap",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/Button/WBP_Button.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/Button/WBP_WideButton.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAtrributes/GE_AuraVital.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/Pickups/T_Potion_Blue.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/Pickups/T_ManaCrystal.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/Pickups/T_HealthCrystal.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/Pickups/T_Potion_Red.uasset"
 			]
 		}
 	]
