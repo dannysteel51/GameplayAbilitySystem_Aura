@@ -24,6 +24,8 @@
 				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/Overlay/WBP_Overlay.uasset",
 				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/Button/WBP_Button.uasset",
 				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/Button/WBP_WideButton.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/Actor/Potion/BP_Potion.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AbilitySystem/Data/DA_AttributeInfo.uasset",
 				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AbilitySystem/GameplayEffects/DefaultAtrributes/GE_AuraVital.uasset",
 				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/Pickups/T_Potion_Blue.uasset",
 				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/Pickups/T_ManaCrystal.uasset",
