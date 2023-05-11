@@ -48,6 +48,10 @@ struct FEffectProperties
 	UPROPERTY()
 	ACharacter* TargetCharacter = nullptr;
 };
+// typedef is specific to the FGameplayAttribute() signiture, but TStaticFuncPtr is generic to any signiture
+//typedef TBaseStaticDelegateInstance<FGameplayAttribute(), FDefaultDelegateUserPolicy>::FFuncPtr FAttributeFuncPtr;
+template <class T>
+using TStaticFuncPtr = typename TBaseStaticDelegateInstance<T, FDefaultDelegateUserPolicy>::FFuncPtr;
 
 /**
  * 
@@ -64,6 +68,23 @@ public:
 	virtual void PreAttributeChange(const FGameplayAttribute& Attribute, float& NewValue) override; // Mostly good for clamping values
 
 	virtual void PostGameplayEffectExecute(const FGameplayEffectModCallbackData& Data) override;
+
+	/*
+	 *  Reference for function pointer syntax begin
+	 *
+	
+		We are now using a typedef for TBaseStaticDelegateInstance<FGameplayAttribute(), FDefaultDelegateUserPolicy>::FFuncPtr
+		which is the equivalent of a c++ function pointer to a function that returns a FGameplayAttribute
+									FGameplayAttribute(*)()
+		No longer using. This is all for future reference
+
+	 *
+	 *  Reference for function pointer syntax end
+	 */
+	
+
+	//  TStaticFuncPtr<FGameplayAttribute()> A function pointer that returns a FGameplayAttribute and has no parameters
+	TMap<FGameplayTag,  TStaticFuncPtr<FGameplayAttribute()>> TagsToAttributes;
 	
 	/*
 	 * Primary Attributes
