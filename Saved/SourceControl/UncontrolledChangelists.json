@@ -15,7 +15,14 @@
 				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/Input/InputActions/IA_4.uasset",
 				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/Input/DA_AuraInputConfig.uasset",
 				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/Input/IMC_AuraContext.uasset",
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/Player/BP_AuraPlayerController.uasset"
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/Player/BP_AuraPlayerController.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/UI/AttributeMenu/WBP_AttributeMenu.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Assets/Dungeon/Beacon/SM_Beacon.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/Characters/Aura/BP_AuraCharacter.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Assets/Effects/Projectiles/FireBolt/NS_Fire_3.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AbilitySystem/GameplayAbilities/Fire/Firebolt/BP_Firebolt.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Assets/Dungeon/SM_Tile_3x2.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AbilitySystem/GameplayAbilities/Fire/Firebolt/GA_Firebolt.uasset"
 			]
 		}
 	]
