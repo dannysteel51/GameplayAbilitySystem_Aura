@@ -22,7 +22,9 @@
 				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Assets/Effects/Projectiles/FireBolt/NS_Fire_3.uasset",
 				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AbilitySystem/GameplayAbilities/Fire/Firebolt/BP_Firebolt.uasset",
 				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Assets/Dungeon/SM_Tile_3x2.uasset",
-				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AbilitySystem/GameplayAbilities/Fire/Firebolt/GA_Firebolt.uasset"
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AbilitySystem/GameplayAbilities/Fire/Firebolt/GA_Firebolt.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Assets/Characters/Aura/Animations/Abilities/AM_Firebolt.uasset",
+				"D:/UnrealEngineFiles/Projects/Aura/Aura/Content/Blueprints/AnimNotifies/AN_Montage_Event.uasset"
 			]
 		}
 	]
