@@ -21,7 +21,7 @@ void FAuraGameplayTags::InitializeNativeGameplayTags()
 		UGameplayTagsManager::Get().AddNativeGameplayTag(FName("Attributes.Primary.Resilience"), FString("Increases armor and armor penetration"));
 
 	GameplayTags.Attributes_Primary_Vigor =
-    		UGameplayTagsManager::Get().AddNativeGameplayTag(FName("Attributes.Primary.Vigor"), FString("Increases Health"));
+			UGameplayTagsManager::Get().AddNativeGameplayTag(FName("Attributes.Primary.Vigor"), FString("Increases Health"));
 	
 	/*
 	 * Secondary Attributes
@@ -52,10 +52,10 @@ void FAuraGameplayTags::InitializeNativeGameplayTags()
 		UGameplayTagsManager::Get().AddNativeGameplayTag(FName("Attributes.Secondary.ManaRegeneration"), FString("Amount of mana regenerated per second"));
 	
 	GameplayTags.Attributes_Secondary_MaxHealth =
-    		UGameplayTagsManager::Get().AddNativeGameplayTag(FName("Attributes.Secondary.MaxHealth"), FString("Players Max Health"));
+			UGameplayTagsManager::Get().AddNativeGameplayTag(FName("Attributes.Secondary.MaxHealth"), FString("Players Max Health"));
 	
-    	GameplayTags.Attributes_Secondary_MaxMana =
-    		UGameplayTagsManager::Get().AddNativeGameplayTag(FName("Attributes.Secondary.MaxMana"), FString("Players Max Mana"));
+	GameplayTags.Attributes_Secondary_MaxMana =
+		UGameplayTagsManager::Get().AddNativeGameplayTag(FName("Attributes.Secondary.MaxMana"), FString("Players Max Mana"));
 
 	/*
 	 * Input tags
@@ -78,4 +78,8 @@ void FAuraGameplayTags::InitializeNativeGameplayTags()
 
 	GameplayTags.InputTag_4 =
 		UGameplayTagsManager::Get().AddNativeGameplayTag(FName("InputTag.4"), FString("Input Tag for 4 key"));
+
+	GameplayTags.Damage =
+		UGameplayTagsManager::Get().AddNativeGameplayTag(FName("Damage"), FString("Damage"));
 }
+
