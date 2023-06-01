@@ -23,7 +23,6 @@ void UAuraAbilitySystemComponent::AddCharacterAbilities(const TArray<TSubclassOf
 			GiveAbility(AbilitySpec);
 		}
 	}
-	
 }
 
 void UAuraAbilitySystemComponent::AbilityInputTagHeld(const FGameplayTag& InputTag)
