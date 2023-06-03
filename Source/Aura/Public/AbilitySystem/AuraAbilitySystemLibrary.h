@@ -31,5 +31,4 @@ public:
 
 	UFUNCTION(BlueprintCallable, Category= "AuraAbilitySystemLibrary|ClassDefaults")
 	static void GiveStartupAbilities(const UObject* WorldContextObject, UAbilitySystemComponent* ASC);
-	
 };
